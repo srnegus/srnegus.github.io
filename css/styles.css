@@ -242,7 +242,7 @@ box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
 	color: #fff;
 	background: none;
-	border-bottom:2px solid #000000;
+	border-bottom:2px solid #ffffff;
 	border-radius: 0px;
 }
 .navbar-nav > li:hover > a {
