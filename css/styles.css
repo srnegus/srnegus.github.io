@@ -32,7 +32,7 @@ p {
 	background: #fff;
 }
 .pDark p {
-	color: #6D6D6D;
+	color: #000;
 }
 .pDark h3 {
 	color: #BEBEBE;
@@ -269,7 +269,7 @@ box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 	font-weight: 200;
 }
 .page-section h2 {
-	color: #dddddd;
+	color: #000;
 }
 .page-section p {
 	font-size: 1.1em;
