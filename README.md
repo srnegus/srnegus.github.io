@@ -1,2 +1,2 @@
 # srnegus.github.io
-Porfolio
+Portfolio
