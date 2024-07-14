@@ -24,7 +24,7 @@ body {
  background: #000000;
 }
 p {
-	color: #858585;
+	color: #000000;
 	line-height: 22px;
 	font-size: 15px;
 }
@@ -58,7 +58,7 @@ p {
 	background: rgba(255,255,255,0.35);
 }
 a {
-	color: #000000;
+	color: #6D6D6D;
 	text-decoration: none;
 	text-shadow: none;
 	-webkit-transition: all 0.2s linear;
