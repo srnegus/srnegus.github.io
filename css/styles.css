@@ -959,7 +959,7 @@ color: #000;
 @media (max-width: 768px) {
 .banner-container > img {
 	min-width: 100%;
-	height:400px;
+	height:300px;
 	
 }
 .team-member .member-img img {
